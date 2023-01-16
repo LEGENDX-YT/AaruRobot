@@ -1,5 +1,5 @@
 {
-      "name": "𝐀𝐀𝐑𝐔🇽 𝐑𝐎𝐁𝐎𝐓",
+      "name": "NOMORE 🇽 𝐑𝐎𝐁𝐎𝐓",
       "description": "Telegram Group Management Bot.",
       "logo": "https://telegra.ph/file/bfa7fee0f000cf8b4ffe6.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Aaru"
       ],   
-   "repository": "https://github.com/CODER-XD143/AaruRobot",
+   "repository": "https://github.com/SATYA-OP/AaruRobot",
    "addons": [
       {
          "options": {
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "XD_CODER"
+         "value": "NOMRExd"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "IND_BRAND_CHAT"
+         "value": "NOMRExd"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -161,7 +161,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to BANNA_XD",
          "required": false,
-         "value": "https://t.me/XD_CODER"
+         "value": "https://t.me/NOMRExd"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
