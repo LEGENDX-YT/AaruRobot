@@ -11,6 +11,7 @@ from AaruRobot import (
     DONATION_LINK,
     LOGGER,
     OWNER_ID,
+    BOT_USERNAME,
     PORT,
     SUPPORT_CHAT,
     TOKEN,
